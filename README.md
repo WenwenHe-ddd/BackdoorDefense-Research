@@ -50,7 +50,7 @@
 
 简化FIM信息矩阵：![img](https://gitee.com/he-wenwen1171571169/images/raw/master/clip_image002.jpg)
 
-->归一化：![img](file:///C:/Users/Lenovo/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+->归一化：![image-20241002195947477](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20241002195947477.png)
 
 ->参数梯度：![img](https://gitee.com/he-wenwen1171571169/images/raw/master/clip_image006.jpg)![image-20241002194024597](https://gitee.com/he-wenwen1171571169/images/raw/master/image-20241002194024597.png)
 
