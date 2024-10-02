@@ -50,7 +50,7 @@
 
 简化FIM信息矩阵：![img](https://gitee.com/he-wenwen1171571169/images/raw/master/clip_image002.jpg)
 
-->归一化：![image-20241002195947477](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20241002195947477.png)
+->归一化：![image-20241002195947477](https://gitee.com/he-wenwen1171571169/images/raw/master/image-20241002195947477.png)
 
 ->参数梯度：![img](https://gitee.com/he-wenwen1171571169/images/raw/master/clip_image006.jpg)![image-20241002194024597](https://gitee.com/he-wenwen1171571169/images/raw/master/image-20241002194024597.png)
 
@@ -84,7 +84,7 @@
 
 基于SGD
 
-\1.   计算得分：![img](C:/Users/Lenovo/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)，自己与其他工作者的向量差异之和
+\1.   计算得分：![image-20241002201226275](https://gitee.com/he-wenwen1171571169/images/raw/master/image-20241002201226275.png)，自己与其他工作者的向量差异之和
 
 \2.  选择得分最低的向量作为梯度更新的方向：![img](https://gitee.com/he-wenwen1171571169/images/raw/master/clip_image004.jpg)
 
